@@ -53,7 +53,7 @@ const termList = [
 ];
 
 //value of the questions
-const quesValue = ["0","10","100", "1000", "10,000", "100,000","100,000", "1,000,000"];
+const quesValue = ["0","100", "1000", "10,000", "100,000","100,000", "1,000,000"];
 
 var quessOrder = [];
 var ansArr = [0, 1, 2, 3];
